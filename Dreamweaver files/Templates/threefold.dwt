@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- TemplateBeginEditable name="doctitle" -->
+  <title>New page | Threefold</title>
+  <!-- TemplateEndEditable -->
+  <link rel="icon" href="../assets/stack.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../pages/styles.css">
+  <!-- TemplateBeginEditable name="head" -->
+  <meta name="description" content="Threefold multimedia portfolio.">
+  <!-- TemplateEndEditable -->
+  <!-- TemplateParam name="pageKey" type="text" value="" -->
+</head>
+<body id="top">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="../pages/index.html" aria-label="Threefold home">
+        <img src="../assets/stack.svg" width="40" height="40" alt="">
+        <span>Threefold</span>
+      </a>
+      <nav aria-label="Main navigation">
+        <a href="../pages/index.html" aria-current="@@(pageKey == 'index' ? 'page' : 'false')@@">Home</a>
+        <a href="../pages/team.html" aria-current="@@(pageKey == 'team' ? 'page' : 'false')@@">Our team</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- TemplateBeginEditable name="PageContent" -->
+  <main id="main" class="wrap info-page">
+    <h1>Page title</h1>
+  </main>
+  <!-- TemplateEndEditable -->
+
+  <footer class="wrap footer">
+    <div class="footer-base">
+      <small>© 2026 Threefold All rights reserved.</small>
+      <nav aria-label="Footer navigation">
+        <a href="../pages/contact.html" aria-current="@@(pageKey == 'contact' ? 'page' : 'false')@@">Contact us</a>
+        <a href="../pages/privacy.html" aria-current="@@(pageKey == 'privacy' ? 'page' : 'false')@@">Privacy Policy</a>
+      </nav>
+    </div>
+  </footer>
+</body>
+</html>
